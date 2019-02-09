@@ -12,9 +12,9 @@
 #include <sys/stat.h>
 #include <fcntl.h>
 
-#include "bbexample.h"
+#include "mybbexample.h"
 
 void LibHelloWorld()
 {
-  printf("Hello World (from a shared library!)\n");
+  printf("Hello Kiruki (from a shared library in Japan!)\n");
 }

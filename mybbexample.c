@@ -6,11 +6,11 @@
 #include <string.h>
 #include <unistd.h>
 
-#include "bbexample.h"
+#include "mybbexample.h"
 
 int main(int argc, char *argv[])
 {
-  printf("Hello Yocto World...\n");
+  printf("Hello Mutugi in Japan...\n");
 
   LibHelloWorld();
 

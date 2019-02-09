@@ -2,10 +2,10 @@
 # Process this file with autoconf to produce a configure script.
 
 #AC_PREREQ(2.60)
-AC_INIT(bbexample, 0.1, ajlennon@dynamicdevices.co.uk)
-AC_CONFIG_SRCDIR([bbexample.c])
+AC_INIT(mybbexample, 0.1, ajlennon@dynamicdevices.co.uk)
+AC_CONFIG_SRCDIR([mybbexample.c])
 AC_CONFIG_HEADER([config.h])
-AM_INIT_AUTOMAKE(bbexample, main)
+AM_INIT_AUTOMAKE(mybbexample, main)
 
 # Checks for programs.
 AC_PROG_CC
